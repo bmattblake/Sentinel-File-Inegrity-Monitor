@@ -1,5 +1,5 @@
 # Sentinel-File-Inegrity-Monitor
-Constantly watches specified folders for any changes and reports them to the the user.
+Constantly watches specified folders for any changes and reports them to the user.
 
 # Use:
 1. Run sentinel/launch.py.
