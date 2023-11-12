@@ -1,6 +1,6 @@
 # Sentinel-File-Inegrity-Monitor
 
-!(Home Page)[/docs/sentinel.png]
+![Home Page](/docs/sentinel.png)
 Constantly watches specified folders for any changes and reports them to the user.
 
 # Use:
