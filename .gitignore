@@ -11,3 +11,4 @@ DirWatcher.class
 ConfigIO.class
 /config/paths
 /config/config
+.DS_Store
